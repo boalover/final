@@ -15,11 +15,11 @@ function preload() {
     "C5", "D5", "E5", "F5", "G5", "E6"
   ];
   let imageFiles = [
-    'assets/blue1.png', 'assets/green1.png', 'assets/orange1.png', 'assets/red1.png', 
-    'assets/yellow1.png', 'assets/연보라1.png', 'assets/청록색1.png', 'assets/blue2.png', 
-    'assets/green2.png', 'assets/orange2.png', 'assets/red2.png', 'assets/yellow2.png', 
-    'assets/blue3.png', 'assets/green3.png', 'assets/orange3.png', 'assets/red3.png', 
-    'assets/greenblue1.png', 'assets/greenblue3.png'
+    'blue1.png', 'green1.png', 'orange1.png', 'red1.png',
+'yellow1.png', '연보라1.png', '청록색1.png', 'blue2.png',
+'green2.png', 'orange2.png', 'red2.png', 'yellow2.png',
+'blue3.png', 'green3.png', 'orange3.png', 'red3.png',
+'greenblue1.png', 'greenblue3.png'
   ];
 
   let imagesLoaded = 0;
